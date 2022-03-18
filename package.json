@@ -15,7 +15,15 @@
   "author": "Carlos Rodriguez <rodriguezcarlos.cdr@gmail.com>",
   "license": "MIT",
   "bin": {
-    "printNames": "./bin/global.js",
+    "printNames": "bin/global.js",
     "preferGlobal": "true"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosRodriguez-Arg/dependencia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CarlosRodriguez-Arg/dependencia/issues"
+  },
+  "homepage": "https://github.com/CarlosRodriguez-Arg/dependencia#readme"
 }
