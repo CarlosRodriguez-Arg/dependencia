@@ -1,0 +1,17 @@
+{
+  "name": "my-dependence",
+  "version": "1.0.0",
+  "description": "It's my first dependence created on javascript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "dependence",
+    "course"
+  ],
+  "author": "Carlos Rodriguez <rodriguezcarlos.cdr@gmail.com>",
+  "license": "MIT"
+}
