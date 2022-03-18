@@ -13,5 +13,9 @@
     "course"
   ],
   "author": "Carlos Rodriguez <rodriguezcarlos.cdr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "printNames": "./bin/global.js",
+    "preferGlobal": "true"
+  }
 }
