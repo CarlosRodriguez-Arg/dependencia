@@ -12,4 +12,5 @@ const printNames = () =>{
     }
 }
 
-export {printNames};
+module.exports = {printNames};
+
