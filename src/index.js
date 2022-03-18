@@ -13,4 +13,6 @@ const printNames = () =>{
 }
 
 module.exports = {printNames};
-
+/*Trate de usar export pero no se
+puede. Tiene que ser con esta sintaxis 
+si o si */
